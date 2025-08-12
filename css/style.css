@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap');
 
 :root {
     --primary-color: #008080; /* Teal */
@@ -43,6 +44,12 @@ img {
 }
 
 /* --- NAVBAR --- */
+
+.navbar-logo {
+    font-family: "Edu NSW ACT Cursive", cursive;
+    font-size: 2rem;
+}
+
 .navbar {
     position: absolute;
     top: 0;
