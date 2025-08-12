@@ -1,0 +1,3 @@
+This is a placeholder for the hero video.
+Please replace this with a short, high-quality video showcasing Sawah Lega Hegar.
+The video should be in MP4 format and named 'hero-video.mp4'.

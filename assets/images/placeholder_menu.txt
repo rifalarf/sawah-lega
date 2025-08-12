@@ -1,0 +1,2 @@
+Please add the new menu image to this directory:
+- paket-bundling.png (The full menu poster image you provided)

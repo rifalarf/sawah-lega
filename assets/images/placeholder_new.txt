@@ -1,0 +1,3 @@
+Please add the following images to this directory for the new design:
+- wahana-playground.jpg (A vibrant picture of the playground area)
+- wahana-kolam.jpg (An inviting picture of the swimming pool area)

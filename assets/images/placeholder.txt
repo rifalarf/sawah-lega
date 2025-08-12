@@ -1,0 +1,7 @@
+This is a placeholder for the menu images.
+Please add the following images to this directory:
+- menu-bundling-1.png
+- menu-bundling-2.png
+- menu-makan-1.png
+- menu-makan-2.png
+- menu-minum.png
